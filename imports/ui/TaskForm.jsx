@@ -18,7 +18,7 @@ export const TaskForm = () => {
   };
 
   return (
-    <form className="task-fork" onSubmit={handleSubmit}>
+    <form className="task-form" onSubmit={handleSubmit}>
       <input
         type="text"
         placeholder="Type to add new tasks"
