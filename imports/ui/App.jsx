@@ -36,7 +36,7 @@ export const App = () => {
       <header>
         <div className="app-bar">
           <div className="app-header">
-            <h1>📝️ To Do Lis</h1>
+            <h1>📝️ To Do List</h1>
             {pendingTasksTitle}
           </div>
         </div>
